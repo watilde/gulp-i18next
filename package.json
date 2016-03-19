@@ -1,0 +1,28 @@
+{
+  "name": "gulp-i18next",
+  "version": "0.0.1",
+  "description": "Bundle language resource files for i18next",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/watilde/gulp-i18next.git"
+  },
+  "keywords": [
+    "i18next",
+    "gulp",
+    "gulpplugin"
+  ],
+  "author": "Daijiro Wachi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/watilde/gulp-i18next/issues"
+  },
+  "homepage": "https://github.com/watilde/gulp-i18next#readme",
+  "dependencies": {
+    "gulp-util": "^3.0.7",
+    "through2": "^2.0.1"
+  }
+}
